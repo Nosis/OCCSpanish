@@ -463,22 +463,22 @@
 "Help" = "Ayuda";
 
 /* deviceProperties_table_properties_menu */
-"Select '%@' device before adding '%@' key" = "Select '%1$@' device before adding '%2$@' key";
+"Select '%@' device before adding '%@' key" = "Seleccione el dispositivo '%1$@' antes de añadir la key '%2$@'";
 
 /* deviceProperties_table_properties_menu */
-"Select a '%@' device before adding a preset" = "Select a '%1$@' device before adding a preset";
+"Select a '%@' device before adding a preset" = "Seleccione un dispositivo '%1$@' antes de añadir una preajuste";
 
 /* deviceProperties_table_properties_menu */
-"Select a Platform ID before adding a preset" = "Select a Platform ID before adding a preset";
+"Select a Platform ID before adding a preset" = "Seleccione un ID de plataforma antes de añadir un preajuste";
 
 /* deviceProperties_table_properties_menu */
-"Select a valid device path" = "Select a valid device path";
+"Select a valid device path" = "Seleccione una ruta de dispositivo válida";
 
 /* deviceProperties_table_properties_menu */
-"Product Name" = "Product Name";
+"Product Name" = "Nombre del producto";
 
 /* deviceProperties_table_properties_menu */
-"CPU Codename" = "CPU Codename";
+"CPU Codename" = "Codename del CPU";
 
 /* deviceProperties_table_properties_menu */
 "Platform ID" = "Platform ID";
@@ -490,28 +490,28 @@
 "Device Name" = "Device Name";
 
 /* deviceProperties_table_properties_menu */
-"Available Device IDs" = "Available Device IDs";
+"Available Device IDs" = "IDs de dispositivo disponible";
 
 /* deviceProperties_table_properties_menu */
-"Available Models" = "Available Models";
+"Available Models" = "Modelos disponibles";
 
 /* nvram_add_properties_table */
-"Select a valid UUID" = "Select a valid UUID";
+"Select a valid UUID" = "Seleccione un UUID válido";
 
 /* compatibilityWarningScreen */
-"You seem to have an old version of OpenCore bootloader." = "You seem to have an old version of OpenCore bootloader.";
+"You seem to have an old version of OpenCore bootloader." = "Parece que tiene una versión antigua del gestor de arranque OpenCore.";
 
 /* compatibilityWarningScreen */
-"The bootloader looks like it is not installed or your NVRAM isn't native." = "The bootloader looks like it is not installed or your NVRAM isn't native.";
+"The bootloader looks like it is not installed or your NVRAM isn't native." = "El bootloader parece que no está instalado o tu NVRAM no es nativa.";
 
 /* compatibilityWarningScreen */
-"2nd_message" = "This app creates a configuration file for %1$@ and higher versions.";
+"2nd_message" = "Esta aplicación crea un archivo de configuración para %1$@ y versiones superiores.";
 
 /* compatibilityWarningScreen */
-"Use at your own risk" = "Use at your own risk";
+"Use at your own risk" = "¡¡ Utilícelo bajo su responsabilidad !!";
 
 /* compatibilityWarningScreen */
-"(select 'Backup File Before Saving' in Preferences Pane)" = "(select 'Backup File Before Saving' in Preferences Pane)";
+"(select 'Backup File Before Saving' in Preferences Pane)" = "(seleccione 'Copia de seguridad del archivo antes de guardar' en el panel de preferencias)";
 
 /* advancedUser */
 "The key “%@” already exists in containing item." = "The key “%@” already exists in containing item.";
